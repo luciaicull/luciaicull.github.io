@@ -5,17 +5,17 @@ permalink: /cv/
 author_profile: true
 ---
 
-<h2> Education </h2>
-<h6>Aug 2018 - Current</h6>
-<h5> * Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea </h5>
+## Education
+Aug 2018 - Current
+* Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
 * M.S. student in Graduate School of Culture Technology
 
 Mar 2014 - Aug 2018
 * Yonsei University, Seoul, South Korea
 * B.S. in Computer Science
-</h5>
 
-<h2> Publications </h2>
+
+## Publications
 ### Conference Proceedings
 * VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance 
     + Dasaem Jeong, Taegyun Kwon, <u>Yoojin Kim</u>, Kyogu Lee and Juhan Nam 
@@ -39,4 +39,4 @@ Mar 2014 - Aug 2018
     + *Samsung Research Funding Center*, 2019 - Current
 
 ## Research Interest
-**_Data Analytics, Modeling, Statistics, Machine Learning, Deep Learning_** 
+*Data Analytics, Modeling, Statistics, Machine Learning, Deep Learning* 
