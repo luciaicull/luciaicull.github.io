@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2> Education </h2>
-<h5> Aug 2018 - Current </h5>
+<h6>Aug 2018 - Current</h6>
 <h5> * Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea </h5>
 * M.S. student in Graduate School of Culture Technology
 
