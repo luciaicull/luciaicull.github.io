@@ -99,9 +99,9 @@ author:
   location         : "Seoul, Korea"
   email            : yj.luciaicul@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yj.luciaicul@gmail.com"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:yj.luciaicul@gmail.com"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
